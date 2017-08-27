@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce5bde89ea7e794c9caba6b156d89cb, type: 3}
+  m_Name: LaunchEvent
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 4cb1271b21ce5864a91a0c7098692b05, type: 3}
+  - {fileID: 8300000, guid: e38306122e2c10f49a2538a57969afd7, type: 3}
+  - {fileID: 8300000, guid: 790753ca3332182458cb3c39d8f930b2, type: 3}
+  - {fileID: 8300000, guid: aae218e2038de4d45bf80f01e32aab50, type: 3}
+  - {fileID: 8300000, guid: cd1ef71902e5ea447ad6b2d5e6a8d74b, type: 3}
+  volume:
+    minValue: 1
+    maxValue: 1
+  pitch:
+    minValue: 1.3827161
+    maxValue: 1.3827161
+  music: 0

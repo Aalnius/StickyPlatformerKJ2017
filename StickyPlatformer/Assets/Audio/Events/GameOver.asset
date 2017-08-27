@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce5bde89ea7e794c9caba6b156d89cb, type: 3}
+  m_Name: GameOver
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 59308178eec651c43ba3f5e700d989a5, type: 3}
+  - {fileID: 8300000, guid: 6a300e2678d935e428a8eeb6e7027d00, type: 3}
+  - {fileID: 8300000, guid: 22f7bb4f74c3afe4f9e962d2a204dc2b, type: 3}
+  - {fileID: 8300000, guid: 36b708f57fdbf6f4290e0f9010195e43, type: 3}
+  - {fileID: 8300000, guid: 42a9a1bde43bf3c4fb18a7823268f9c4, type: 3}
+  - {fileID: 8300000, guid: 572648583374ee944a42ebf4762f6a9d, type: 3}
+  - {fileID: 8300000, guid: 5b965e7b5d2a68d4281575fa67f3a6dd, type: 3}
+  - {fileID: 8300000, guid: e1bfec4cd2c3e334a825c700b9366402, type: 3}
+  volume:
+    minValue: 0.6419754
+    maxValue: 1
+  pitch:
+    minValue: 0.7407407
+    maxValue: 1.5555553
+  music: 0

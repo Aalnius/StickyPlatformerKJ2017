@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce5bde89ea7e794c9caba6b156d89cb, type: 3}
+  m_Name: DestroyEvent
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 31b7f2cbaaacd8b46b3f64e5d1c865e6, type: 3}
+  - {fileID: 8300000, guid: 469fb35ec05c8974ba45b98eae7439fa, type: 3}
+  - {fileID: 8300000, guid: fcf80d81c5b98cc4692d976c447b20c1, type: 3}
+  - {fileID: 8300000, guid: 292d47f5535aaa6489709731611189b6, type: 3}
+  - {fileID: 8300000, guid: 4dd76c4a796375b4388c9a97fe32a92b, type: 3}
+  volume:
+    minValue: 1
+    maxValue: 1
+  pitch:
+    minValue: 1.1358024
+    maxValue: 1.1358024
+  music: 0
